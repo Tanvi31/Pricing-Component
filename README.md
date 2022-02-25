@@ -11,5 +11,12 @@ In this project, I built out an interactive pricing component complete with cust
 - Flexbox
 - Javascript
 ## Screenshots
-![](C:\Users\LENOVO\OneDrive\Desktop\ip1.jpg)
-![](C:\Users\LENOVO\OneDrive\Desktop\ip2.jpg)
+- Desktop Design
+![Desktop Design](design/desktop-preview.jpg)
+
+- Mobile Design
+
+
+
+
+ ![Mobile Design](design/mobile-design.jpg)
